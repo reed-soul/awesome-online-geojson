@@ -60,6 +60,7 @@
 * **[GeoConverter](https://geoconverter.mikoding.com/)** - 100% client-side GIS format converter supporting 30+ vector and raster formats (GeoJSON, Shapefile, KML, GPX, GML, DXF, GeoPackage, TopoJSON, and more). Powered by GDAL via WebAssembly.
 * **[QuickMapTools](https://www.quickmaptools.com/)** - Online toolset for downloading, converting, and inspecting geospatial data (boundaries, cities, Natural Earth) between GeoJSON, Shapefile, KML, TopoJSON, GeoPackage, FlatGeobuf, SVG, and DXF.
 * **[MyGeoData Converter](https://mygeodata.cloud/converter/)** - Free online converter for GIS formats — supports GeoJSON, KML, Shapefile, GPX, DXF, CSV, and many more.
+* **[GIS Toolbox](https://gis.taoliapp.com/en/)** - Free browser-local coordinate converter and GIS format tools (WGS84, GCJ-02, BD-09, CGCS2000, GeoJSON/Shapefile/KML/CSV). No upload.
 * **[AcuGIS 2GeoJSON](https://www.acugis.com/2geojson/)** - Free online converter from various GIS formats to GeoJSON.
 
 ## 🌐 Global GIS Data Sources
